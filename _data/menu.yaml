@@ -7,3 +7,23 @@ sections:
         price: "$14.99"
       - name: "Kashmiri Fish Tikka"
         price: "$11.99"
+      - name: "Fist Curry"
+        price: "$9.99"
+  - title: "Wraps with a Pop"
+    items:
+      - name: "Chicken Tikka Wrap"
+        price: "$7.99"
+      - name: "Kebab Wrap"
+        price: "$7.99"
+  - title: "Goat"
+    items:
+      - name: "Goat Curry"
+        price: "$9.99"
+      - name: "Lamb Curry"
+        price: "$9.99"
+  - title: "Naan/Roti"
+    items:
+      - name: "Naan"
+        price: "$1.49"
+      - name: "Garlic Naan"
+        price: "$2.49"
