@@ -7,3 +7,4 @@ sections:
         price: "$14.99"
       - name: "Kashmiri Fish Tikka"
         price: "$11.99"
+foo: "bar"

@@ -1,3 +1,7 @@
+---
+foo: bar
+---
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -123,6 +127,7 @@
         <hr>
       </div>
     </div>
+    <h1>{{ page.foo }}</h1>
     <div class="container">
       {% for section in site.data.sections %}
         <div class="col-xs-12 col-sm-4">
