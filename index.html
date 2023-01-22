@@ -131,7 +131,7 @@ keepHere: doNotRemoveOrThisFileWillNotBeBuilt
       {% for section in site.data.menu.sections %}
         {% assign remainder = forloop.index0 | modulo:3 %}
         {% if remainder == 0 %}
-          <p>Starting row 2</p> <!-- Starting row -->
+          <div class="row"> <!-- Starting row -->
         {% endif %}
         <div class="col-xs-12 col-sm-4">
           <div class="menu-section">
@@ -146,7 +146,7 @@ keepHere: doNotRemoveOrThisFileWillNotBeBuilt
           </div>
         </div>
         {% if remainder == 2 or forloop.last %}
-          <p>Ending row 2</p> <!-- Ending row -->
+          </div> <!-- Ending row -->
         {% endif %}
       {% endfor %}
     </div>
