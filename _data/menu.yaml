@@ -27,3 +27,5 @@ sections:
         price: "$1.49"
       - name: "Garlic Naan"
         price: "$2.49"
+      - name: "Tandoori Roti"
+        price: "$1.49"
