@@ -2,7 +2,7 @@ sections:
   - title: "Fish"
     items:
       - name: "Fish Pakora"
-        price: "$6.99"
+        price: "$9.99"
       - name: "Salmon Fish Tikka"
         price: "$14.99"
       - name: "Kashmiri Fish Tikka"
