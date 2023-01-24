@@ -30,7 +30,7 @@ sections:
       - name: "Butter Chicken"
         price: "M: $14.99, Large: $22.99"
       - name: "Chicken Tikka Masala"
-        price: "Medium: $15.99, L: $23.99"
+        price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
         price: "M: $15.99, L: $23.99"
   - title: "Naan/Roti"
