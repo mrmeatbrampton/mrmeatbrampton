@@ -59,13 +59,13 @@ sections:
         price: "$10.99"
   - title: "Vegetarian"
     items:
-      - name: Dal Makhni
+      - name: "Dal Makhni"
         price: "M:$10.99, L: $17.99"
-      - name: Shahi Paneer
+      - name: "Shahi Paneer"
         price: "M:$10.99, L: $17.99"
-      - name: Methi Malai Paneer
+      - name: "Methi Malai Paneer"
         price: "M:$12.99, L: $18.99"
-      - name: "Paneer Tikka Masala
+      - name: "Paneer Tikka Masala"
         price:"M:$12.99, L: $18.99"
       - name: "Butter Soya Chaap"
         price: "M:$10.99, L: $17.99"
@@ -94,7 +94,7 @@ sections:
       - name: "Chicken Curry"
         price: "M: $14.99, L: $22.99" 
       - name: "Butter Chicken"
-        price: "M: $14.99, Large: $22.99"
+        price: "M: $14.99, L: $22.99"
       - name: "Chicken Tikka Masala"
         price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
