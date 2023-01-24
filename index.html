@@ -360,11 +360,11 @@ keepHere: doNotRemoveOrThisFileWillNotBeBuilt
         </div>
       </div>
       <div class="col-md-4">
-        <h3>Opening Hours</h3>
+        <h3>Hours</h3>
         <div class="contact-item">
-          <p>Timings:</p>
-          <p>Everyday 10:00 AM till 10:00 PM</p>
-
+          {% for hour in site.data.hours %}
+            <p>{{ hour.day }}: {{ hour.hours }}</p>
+          {% endfor %}
         </div>
       </div>
       <div class="col-md-4">
