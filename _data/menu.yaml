@@ -40,7 +40,7 @@ sections:
       - name: "Chicken Curry"
         price: "M: $14.99, L: $22.99" 
       - name: "Butter Chicken"
-        price: "M: $14.99, Large: $22.99"
+        price: "M: $14.99, L: $22.99"
       - name: "Chicken Tikka Masala"
         price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
