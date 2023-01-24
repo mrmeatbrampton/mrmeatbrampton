@@ -15,14 +15,20 @@ sections:
         price: "$9.99"
       - name: "Kebab Wrap"
         price: "$9.99"
-      - name: "Paneer tikka Wrap"
+      - name: "Paneer Tikka Wrap"
         price: "$9.99"
   - title: "Rice/Biryani"
     items:
-      - name: "Goat Curry"
-        price: "M: $15.99, L: $23.99" 
-      - name: "Masala Goat"
-        price: "M: $16.99, L: $24.99"
+      - name: "Plain Rice"
+        price: "$3.99" 
+      - name: "Jeera Rice"
+        price: "$4.99"
+      - name: "Veg Biryani"
+        price: "$8.99" 
+      - name: "Chicken Biryani"
+        price: "$9.99"
+      - name: "Goat Biryani"
+        price: "$10.99"
   - title: "Goat Curries"
     items:
       - name: "Goat Curry"
@@ -39,32 +45,50 @@ sections:
         price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
         price: "M: $15.99, L: $23.99"
-  - title: "Chicken Appetizers"
+  - title: "Appetizers"
     items:
-      - name: "Chicken Curry"
-        price: "M: $14.99, L: $22.99" 
-      - name: "Butter Chicken"
-        price: "M: $14.99, Large: $22.99"
-      - name: "Chicken Tikka Masala"
-        price: "M: $15.99, L: $23.99"
-      - name: "Chilly Chicken"
-        price: "M: $15.99, L: $23.99"
+      - name: "Tandoori Legs"
+        price: "$3.99" 
+      - name: "Chicken Tikka:Tandoori/Afgani/Achari"
+        price: "$11.99"
+      - name: "Chicken Wings:Tandoori/Lemon/Achari"
+        price: "$10.99"
+      - name: " Paneer Tikka"
+        price: "$10.99"
+      - name: "Tandoori/Malai Soya Chaap"
+        price: "$10.99"
   - title: "Vegetarian"
     items:
-      - name:
-        price:
+      - name: Dal Makhni
+        price: "M:$10.99, L: $17.99"
+      - name: Shahi Paneer
+        price: "M:$10.99, L: $17.99"
+      - name: Methi Malai Paneer
+        price: "M:$12.99, L: $18.99"
+      - name: "Paneer Tikka Masala
+        price:"M:$12.99, L: $18.99"
+      - name: "Butter Soya Chaap"
+        price: "M:$10.99, L: $17.99"
   - title: "Chowmein"
     items:
-      - name:
-        price:
+      - name: "Veg"
+        price: "$10.99"
+      - name: "Non-Veg"
+        price:"$11.99"
   - title: "Soups"
     items:
-      - name:
-        price:
+      - name:"Chicken Soup"
+        price: "$7.00"
+      - name: "Kharora Soup"
+        price: "$7.00"
   - title: "Beverages"
     items:
-      - name:
-        price:
+      - name: "Water Bottle"
+        price: "$2.00"
+      - name: "Pop"
+        price: "$2.00"
+      - name: "Red Bull"
+        price: "$3.50"
   - title: "Chicken"
     items:
       - name: "Chicken Curry"
@@ -75,6 +99,12 @@ sections:
         price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
         price: "M: $15.99, L: $23.99"
+   - title: "Thali"
+    items:
+      - name: "Veg"
+        price: "$8.99" 
+      - name: "Non-Veg"
+        price: "$10.99"
   - title: "Naan/Roti"
     items:
       - name: "Butter Naan"
