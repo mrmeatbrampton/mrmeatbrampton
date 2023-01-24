@@ -99,7 +99,7 @@ sections:
         price: "M: $15.99, L: $23.99"
       - name: "Chilly Chicken"
         price: "M: $15.99, L: $23.99"
-   - title: "Thali"
+  - title: "Thali"
     items:
       - name: "Veg"
         price: "$8.99" 
