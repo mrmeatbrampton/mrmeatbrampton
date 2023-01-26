@@ -296,22 +296,26 @@ header .intro-text {
 #restaurant-menu .menu-item {
 	margin: 35px 0;
 	font-size: 18px;
+	display: flex;
 }
 #restaurant-menu .menu-item-name {
 	font-weight: 800;
 	font-size: 17px;
 	color: #555;
 	border-bottom: 2px dotted rgb(213, 213, 213);
+	flex-grow: 6;
+	padding-right: 5px;
 }
 #restaurant-menu .menu-item-description {
 	font-style: italic;
 	font-size: 15px;
 }
 #restaurant-menu .menu-item-price {
-	float: right;
 	font-weight: 400;
 	color: #555;
-	margin-top: -26px;
+	border-bottom: 2px dotted rgb(213, 213, 213);
+	flex-grow: 2;
+	text-align: right;
 }
 /* Portfolio Section */
 #portfolio {

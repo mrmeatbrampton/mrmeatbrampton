@@ -49,9 +49,9 @@ sections:
     items:
       - name: "Tandoori Legs"
         price: "$3.99" 
-      - name: "Chicken Tikka:Tandoori/Afgani/Achari"
+      - name: "Chicken Tikka: Tandoori/Afgani/Achari"
         price: "$11.99"
-      - name: "Chicken Wings:Tandoori/Lemon/Achari"
+      - name: "Chicken Wings: Tandoori/Lemon/Achari"
         price: "$10.99"
       - name: " Paneer Tikka"
         price: "$10.99"
